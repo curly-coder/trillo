@@ -1,0 +1,14 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Booking app",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass" : "node-sass sass/main.scss style/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
